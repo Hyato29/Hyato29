@@ -95,11 +95,11 @@ I love building <b>clean UIs</b>, and <b>reliable infrastructures</b>.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyato29&theme=tokyo-night&area=true" alt="activity graph"/>
 </details>
 
-<details>
+<!-- <details>
   <summary>🐍 Contribution Snake</summary>
   <br/>
   <img src="https://raw.githubusercontent.com/Hyato29/Hyato29/output/github-contribution-grid-snake.svg" alt="snake"/>
-</details>
+</details> -->
 
 ---
 
@@ -107,10 +107,9 @@ I love building <b>clean UIs</b>, and <b>reliable infrastructures</b>.
 <p align="center">
   <a href="https://github.com/Hyato29"><img src="https://img.shields.io/badge/GitHub-Hyato29-000000?style=for-the-badge&logo=github" /></a>
   <a href="https://hyato29.github.io/My-Portofolio/"><img src="https://img.shields.io/badge/Website-Portfolio-1f6feb?style=for-the-badge&logo=google-chrome" /></a>
-  <!-- Tambah LinkedIn/Email kalau ada:
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:EMAILMU"><img src="https://img.shields.io/badge/Email-Say%20Hi!-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/khayatullah-al-amin-a3b9b9221"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:khayatullahalamin@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
 </p>
 
 <!-- FOOTER FANCY -->
