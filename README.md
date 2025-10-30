@@ -15,14 +15,14 @@
 
 <p align="center">
 Passionate about <b>Web Dev</b>, <b>Mobile Dev</b>, and <b>IoT</b>.  
-I love building <b>clean UIs</b>, <b>solid backend</b>, and <b>reliable infrastructures</b>.
+I love building <b>clean UIs</b>, and <b>reliable infrastructures</b>.
 </p>
 
 ---
 
 ### 🧭 About Me
 - 🔭 Saat ini fokus: **Mobile Dev**, **Web Dev**, **IoT**
-- ⚙️ Tech interest: **PHP Native**, **Tailwind/Bootstrap**, **Dart**, **MySQL**, **ESP8266/ESP32**
+- ⚙️ Tech interest: **PHP Native**, **Tailwind/Bootstrap**, **Dart**, **ESP8266/ESP32**
 - 🎯 Goal 2025: Rilis beberapa **template open-source** untuk sekolah/UMKM
 - 💬 Tanyakan apa saja tentang **Flutter**, **PHP Native**
 - 🌐 Portfolio: **https://hyato29.github.io/My-Portofolio/**
@@ -37,12 +37,10 @@ I love building <b>clean UIs</b>, <b>solid backend</b>, and <b>reliable infrastr
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP8266/ESP32-000000?logo=esphome&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MikroTik-293241?logo=router&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -97,13 +95,11 @@ I love building <b>clean UIs</b>, <b>solid backend</b>, and <b>reliable infrastr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyato29&theme=tokyo-night&area=true" alt="activity graph"/>
 </details>
 
-<!-- OPTIONAL: Snake (perlu GitHub Action untuk generate file SVG) 
 <details>
   <summary>🐍 Contribution Snake</summary>
   <br/>
   <img src="https://raw.githubusercontent.com/Hyato29/Hyato29/output/github-contribution-grid-snake.svg" alt="snake"/>
 </details>
--->
 
 ---
 
