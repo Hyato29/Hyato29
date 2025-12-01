@@ -50,9 +50,6 @@ I love building <b>clean UIs</b>, and <b>reliable infrastructures</b>.
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hyato29&show_icons=true&theme=radical&rank_icon=github" alt="stats"/>
   <img height="160" src="https://streak-stats.demolab.com?user=Hyato29&theme=radical" alt="streak"/>
 </p>
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyato29&layout=compact&theme=radical&langs_count=8" alt="top langs"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hyato29&theme=radical&no-bg=true&no-frame=true&column=7" alt="trophy"/>
