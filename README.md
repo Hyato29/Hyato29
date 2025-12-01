@@ -64,14 +64,6 @@ I love building <b>clean UIs</b>, and <b>reliable infrastructures</b>.
 <p align="center">
   <a href="https://hyato29.github.io/My-Portofolio/"><img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Live-0ea5e9?style=for-the-badge" /></a>
 </p>
-
-<p align="center">
-  <!-- Pin a repo card (ganti 'My-Portofolio' kalau perlu) -->
-  <a href="https://github.com/Hyato29/My-Portofolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyato29&repo=My-Portofolio&theme=radical" alt="Pinned Repo"/>
-  </a>
-</p>
-
 ---
 
 ### 📝 Highlight Notes
